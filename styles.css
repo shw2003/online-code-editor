@@ -1,0 +1,16 @@
+body{
+    background-color: #C6D57E;
+    
+}
+
+.editor-code{
+    display: inline-block;
+
+    
+}
+
+#output{
+    display:grid;
+    background-color: #fff;
+}
+
